@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+
+.botao{
+    display: flex;
+    flex-direction: column;
+  
+}
+
+input[type="button"]{
+    width: 250px;
+    height: 50px;
+    background-color:  #35890B;
+    flex-direction: column;
+    align-content: flex-end;
+}
+
+.principal{
+    display: flex;
+    flex-direction: row;
+
+}
+img{
+    width: 1000px;
+    height: 600px;
+
+}
+
+.botao2{
+    display: flex;
+    justify-content: end;
+    flex-direction: row;
+    align-items: end;
+}
+
+
+.escrita{
+    color: white;
+    width: 400px;
+    height: 120px;
+
+}
+
